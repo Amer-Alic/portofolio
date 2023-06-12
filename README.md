@@ -1,2 +1,2 @@
 # Amer Alic portofolio
-live preview: 
+live preview: https://amer-alic.github.io/portofolio/
